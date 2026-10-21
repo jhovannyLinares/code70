@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Lily58-footprint)(type KiCad)(uri ${KIPRJMOD}/../library)(options "")(descr ""))
+  (lib (name Code70)(type KiCad)(uri ${KIPRJMOD}/../library)(options "")(descr ""))
+)

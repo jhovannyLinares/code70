@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Lily58_Pro-rescue)(type Legacy)(uri ${KIPRJMOD}/../library/Lily58_Pro-cache.lib)(options "")(descr ""))
+)
